@@ -14,6 +14,10 @@ const IndexPage = () => {
         alt="Clifford, a reddish-brown pitbull, posing on a couch and looking stoically at the camera"
         src="https://content.govdelivery.com/attachments/ORDOT/2021/10/26/file_attachments/1977238/KidsCrossing.jpg"
       />
+      <StaticImage 
+        alt="P5 image"
+        src="../images/circles_grid.png"
+      />
       </Layout>
 
   )
